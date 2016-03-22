@@ -1,6 +1,6 @@
 // getSelector.js (c) 2011, Lim Chee Aun. Licensed under the MIT license.
 
-var getSelector = (function(d){
+module.exports = (function(d){
 	
 	if (!d.querySelector) return function(){};
 	
