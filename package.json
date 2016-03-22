@@ -1,6 +1,6 @@
 {
   "name": "get-selector",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "getSelector.js",
   "license": "MIT"
 }
