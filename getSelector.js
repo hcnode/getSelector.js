@@ -184,4 +184,4 @@ module.exports = (function(d){
 		return selector;
 	};
 	
-})(document);
+})(window.document);
